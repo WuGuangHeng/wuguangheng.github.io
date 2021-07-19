@@ -7,7 +7,7 @@
 
 <!-- background image -->
 
-![background](_media/bg.png)
+![](_media/bg.png)
 
 <!-- background color -->
 
