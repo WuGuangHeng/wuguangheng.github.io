@@ -1,3 +1,3 @@
 <!--_navbar.md-->
-*[En](/)
-*[Chinese](/zh-cn/)
+* [En](/)
+* [Chinese](/zh-cn/)
