@@ -1,0 +1,153 @@
+# 2021 ICCSS会议
+
+1.  PPT
+
+    1.  P1——self-introduction
+
+    2.  P2——content
+
+    3.  **Background——P3—P7**
+
+        1.  survival analysis
+
+        2.  pseudo-observations
+
+        3.  broad learning system
+
+    4.  **Proposed method——P8—P9**
+
+        1.  BroadSurv
+
+        2.  Algorithm
+
+    5.  **Experimental Results——P10—P11**
+
+        1.  table
+
+        2.  figure
+
+    6.  **Conclusion——P12—P13**
+
+2.  Oral Talk
+
+    1.  P0
+
+        1.  Thanks for introduction. Good afternoon everyone. I am so honored to
+            be with you to communicate academic questions and ideas.
+
+        2.  My name is Wu Guangheng, a junior student from Jinan university,
+            China. Today, I’m going to talk about our recent work about
+            BroadSurv: A Novel Broad Learning System-based Approach for Survival
+            Analysis.
+
+    2.  P2
+
+        1.  The content of my presentation is listed as follows.
+
+    3.  P3—P5
+
+        1.  Here comes the part one. The first thing I would like to talk about
+            is survival analysis. ....... as the figure in lower right shows,
+            when t=0, S(t) equals 1, as time goes on, the survival probability
+            decreases until 0. the data we need to handle in survival analysis
+            is called survival data. ........ Survival data is usually faced
+            with the problem of censoring.Censoring means that the final event
+            is not observed during the research time. We can use a triple
+            {X,T,I} to denote the survival data.
+
+    4.  P6
+
+        1.  Pseudo-observations is regarded as a way to analyze survival data.
+            In short, it can generate pseudo survival probability with the
+            survival data and help transform a survival analysis problem into a
+            regression problem.
+
+    5.  P7
+
+        1.  Broad learning system proposed by prof. Chen is an effective way to
+            solve the regression problem mentioned above. BLS adopts a flat
+            structure, and it can achieve faster training speed and higher
+            accuracy just by calculating the pseudo-inverse, which can be
+            extended to other research fields.
+
+    6.  P8—P9
+
+        1.  In part two I will introduce our proposed method. As the figure on
+            the left side shows, BroadSurv is a two stage method. In the first
+            stage, pseudo conditional probabilities are computed. In the second
+            stage,with these pseudo values, a complicated survival analysis
+            problem is transformed into a regression problem that can be
+            effectively solved by broad learning system. The detailed algorithm
+            is listed on the right side.
+
+    7.  P10—P11
+
+        1.  Part three are some results of our experiments. The evaluation
+            metric is called C-index, and higher means the better. The last line
+            in Table 2 shows the performance of our proposed model. From these
+            results ,we can see that our proposed method can achieve superior or
+            comparable performance.
+
+    8.  P12—P13
+
+        1.  The last part is the conclusion. In this paper, a novel two-stage
+            method is proposed to model the survival data. In the first stage,
+            we compute the pseudo survival probabilities with
+            pseudo-observations, and then we make risk predictions based on
+            broad learning system in the second stage. To our knowledge, it is
+            the first time broad learning system is applied to survival analysis
+            with censored data. Rather than the hazard ratio or prognostic index
+            in the PH-based models, BroadSurv can directly compute the survival
+            probability.And the results show that BLS behaves well in the area
+            of survival analysis.
+
+    9.  P14
+
+        1.  And these are some references.
+
+    10. P15
+
+        1.  So that is all my presentation. Thank you for listening.
+
+    11. Q&A
+
+        1.  I’m glad you asked that question.
+
+        2.  I appreciate your bringing this to my attention. I’ll have to
+            recheck my sources to see what is correct.
+
+        3.  That’s an interesting question, but it would take much too long to
+            answer it adequately. Perhaps we can discuss it later.
+
+        4.  Sorry. I'm afraid I know little about that matter. So I don't think
+            I can answer your question right now.
+
+        5.  It is a good question and I have no answer at this moment. Can I
+            have your e-mail so that I can email you my possible new findings
+            later?
+
+        6.  Sorry, it seems that you are right. Thank you for pointing out that
+            and I will try my best to amend it in my later work.
+
+        7.  I’m afraid I don’t understand. Could you please rephrase the
+            question?
+
+3.  一些感受
+
+    1.  PPT制作能力还需加强
+
+    2.  表达能力还需加强——英文表达
+
+    3.  **背景——引入要自然**
+
+    4.  公式的说明——每一个字符的表示含义
+
+    5.  图表的说明——位置，强调突出等
+
+    6.  结论部分的说明
+
+    7.  **Q&A部分的应对**
+
+    8.  第一次参加还是做的不太好，但是有了第一次体验
+
+    9.  学术会议认真对待是能够学习到不少东西的

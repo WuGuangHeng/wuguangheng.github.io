@@ -1,14 +1,13 @@
 <!-- _coverpage.md -->
+<!-- 封面 -->
 
-# docsify <small>3.5</small>
+![logo](./assets/logo.svg)
 
-[GitHub](https://github.com/WuGuangHeng/Blog/)
-[Get Started](#quick-start)
+![shici](https://v1.jinrishici.com/all.svg)
 
-<!-- background image -->
-
-![](_media/)
+[GITHUB](https://github.com/WuGuangHeng/Blog)
+[GET STARTED](README.md)
 
 <!-- background color -->
 
-![color](#f0f0f0)     
+![color](#f0f0f0)    

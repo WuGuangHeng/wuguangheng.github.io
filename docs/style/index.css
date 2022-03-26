@@ -1,0 +1,74 @@
+.copyright{
+  color: #90A4AE;
+  text-align: center;
+  font-size: 10px;
+  padding: 5px 0;
+}
+.copyright > a{
+  color: #42b983;
+}
+.copyright > a:hover{
+  color: #42b983;
+}
+
+
+.lxhyl-avatar{
+  display: inline-block;
+  border: none;
+  outline: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 100%;
+  transform: translateY(5px);
+  margin:0 5px;
+}
+
+
+@font-face{
+  font-family: 'poem';
+  src : url('../style/MaShanZheng-Regular.woff2');
+}
+.poem{
+  padding: 50px 5px;
+  font-family: 'poem';
+  background-color: #fcfaf2;
+  text-align: center;
+}
+.poem > p {
+  font-size: 18px; 
+}
+.poem-line{
+  margin: 50px 0;
+  border: 0;
+  padding-top: 1px;
+  background: linear-gradient(to right, transparent, #d0d0d5, transparent);
+}
+.markdown-section{
+  margin: 0 25px !important;
+  max-width: 100%;
+}
+
+.lxhyl-article > p{
+  text-indent: 2em !important;
+}
+.lxhyl-full-page{
+  position: fixed;
+  left: 10px;
+  bottom: 30px;
+}
+
+.lxhyl-button{
+  font-size: 14px;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 5px;
+  background: #42b983;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  margin: 0 5px;
+}
+.lxhyl-menu-title{
+  font-size: 17px !important;
+  font-weight: 700 !important;
+}
