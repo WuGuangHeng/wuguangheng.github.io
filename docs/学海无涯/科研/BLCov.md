@@ -1,0 +1,1 @@
+# BLCov:A Novel Collaborative-competitive Broad Learning System for COVID-19 Detection from Radiology Images
