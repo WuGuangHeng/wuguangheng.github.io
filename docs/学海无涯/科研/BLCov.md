@@ -7,3 +7,5 @@
 - 2022.4.17 被拒
 - 2022.4.21 投稿 IEEE Journal of Biomedical and Health Informatics
 - 2022.4.27 被拒
+- 2022.5.13 投稿 Engineering Applications of Artificial Intelligence
+- 
